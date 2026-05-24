@@ -1,0 +1,85 @@
+aid: amprius
+name: Amprius Technologies
+description: >-
+  Amprius Technologies is a Fremont, California-based developer and
+  manufacturer of high-energy density lithium-ion batteries built on a
+  proprietary 100% silicon anode platform. Its flagship SiCore and SiMaxx
+  cell families are marketed as among the industry's highest gravimetric
+  and volumetric energy density rechargeable cells, enabling longer
+  endurance, faster charging, and higher payload capacity than
+  conventional graphite-anode chemistries. Amprius targets aviation and
+  aerospace (high-altitude pseudo-satellites, unmanned aerial systems,
+  electric vertical takeoff and landing aircraft), defense (US Army
+  soldier-worn power, BAE Systems), light electric vehicles, robotics,
+  and AI hardware. Public references include AALTO's Airbus-derived
+  Zephyr HAPS programs, Prismatic's PHASA-35 stratospheric aircraft,
+  Nokia Drone Networks, and Matternet drone delivery. The company runs
+  pilot manufacturing and R&D in Fremont and is scaling a GWh-scale
+  Brighton, Colorado plant alongside contract manufacturing partnerships
+  in Asia. Amprius is publicly traded on the New York Stock Exchange
+  under the ticker AMPX. It is certified to ISO 9001:2015 and
+  AS9100:2016. Amprius sells cells, modules, and engineering services
+  to OEMs and defense primes; it does not publish a developer API, SDK,
+  or open-source battery telemetry interface, and has no public GitHub
+  organization.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Batteries
+  - Lithium Ion
+  - Silicon Anode
+  - Energy Density
+  - Energy Storage
+  - Aviation
+  - Aerospace
+  - Defense
+  - Unmanned Aerial Systems
+  - High Altitude Pseudo Satellites
+  - Electric Vehicles
+  - Robotics
+  - Hardware
+  - Manufacturing
+  - Public Company
+url: https://raw.githubusercontent.com/api-evangelist/amprius/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://amprius.com
+  - type: Solutions
+    url: https://amprius.com/solutions/
+  - type: Industries
+    url: https://amprius.com/industries/
+  - type: Manufacturing
+    url: https://amprius.com/manufacturing/
+  - type: Partnerships
+    url: https://amprius.com/partnerships/
+  - type: Technology
+    url: https://amprius.com/technology/
+  - type: News
+    url: https://amprius.com/news/
+  - type: Careers
+    url: https://amprius.com/careers/
+  - type: Contact
+    url: https://amprius.com/contact/
+  - type: InvestorRelations
+    url: https://ir.amprius.com
+  - type: SECFilings
+    url: https://ir.amprius.com/financials/sec-filings
+  - type: PressReleases
+    url: https://ir.amprius.com/news/news-releases
+  - type: StockQuote
+    url: https://ir.amprius.com/stock-data/quote-chart
+  - type: Twitter
+    url: https://twitter.com/ampriusInc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/amprius-technologies
+  - type: YouTube
+    url: https://www.youtube.com/@ampriustechnologies
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
