@@ -48,6 +48,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/amprius-domain-security.yml
   - type: Website
     url: https://amprius.com
   - type: Solutions
@@ -80,6 +82,8 @@ common:
     url: https://www.linkedin.com/company/amprius-technologies
   - type: YouTube
     url: https://www.youtube.com/@ampriustechnologies
+  - url: https://amprius.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
