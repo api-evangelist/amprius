@@ -39,6 +39,22 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/amprius.png
 tags:
   - Batteries
+  - Lithium-Ion
+  - Silicon Anode
+  - Energy Density
+  - Energy Storage
+  - Aviation
+  - Aerospace
+  - Defense
+  - Unmanned Aerial Systems
+  - High Altitude Pseudo Satellites
+  - Electric Vehicles
+  - Robotics
+  - Hardware
+  - Manufacturing
+  - Public Company
+tags_raw:
+  - Batteries
   - Lithium Ion
   - Silicon Anode
   - Energy Density
