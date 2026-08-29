@@ -81,6 +81,9 @@ tags_raw:
   - Manufacturing
   - Public Company
 url: https://raw.githubusercontent.com/api-evangelist/amprius/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Amprius sells cells, modules, and engineering services to OEMs and defense primes; it does not publish a developer API, SDK, or open-source battery telemetry interface, and has no public GitHub organi"
 created: '2026-05-24'
 modified: '2026-05-24'
 specificationVersion: '0.23'
