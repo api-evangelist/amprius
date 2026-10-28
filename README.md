@@ -1,4 +1,4 @@
-# amprius
+# Amprius Technologies
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Amprius Technologies (NYSE: AMPX) — silicon anode lithium-ion batteries for aviation, defense, and electric vehicles.
+Amprius Technologies is a Fremont, California-based developer and manufacturer of high-energy density lithium-ion batteries built on a proprietary 100% silicon anode platform. Its flagship SiCore and SiMaxx cell families are marketed as among the industry's highest gravimetric and volumetric energy density rechargeable cells, enabling longer endurance, faster charging, and higher payload capacity than conventional graphite-anode chemistries. Amprius targets aviation and aerospace (high-altitude pseudo-satellites, unmanned aerial systems, electric vertical takeoff and landing aircraft), defense (US Army soldier-worn power, BAE Systems), light electric vehicles, robotics, and AI hardware. Public references include AALTO's Airbus-derived Zephyr HAPS programs, Prismatic's PHASA-35 stratospheric aircraft, Nokia Drone Networks, and Matternet drone delivery. The company runs pilot manufacturing and R&D in Fremont and is scaling a GWh-scale Brighton, Colorado plant alongside contract manufacturing partnerships in Asia. Amprius is publicly traded on the New York Stock Exchange under the ticker AMPX. It is certified to ISO 9001:2015 and AS9100:2016. Amprius sells cells, modules, and engineering services to OEMs and defense primes; it does not publish a developer API, SDK, or open-source battery telemetry interface, and has no public GitHub organization.
+
+**Areas:** Batteries · Lithium-Ion · Silicon Anode · Energy Density · Energy Storage · Aviation · Aerospace · Defense · Unmanned Aerial Systems · High Altitude Pseudo Satellites · Electric Vehicles · Robotics
+
+## Amprius Technologies on APIs.io
+
+Everything profiled for Amprius Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/amprius/](https://apis.io/providers/amprius/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Amprius Domain Security](https://apis.io/security/amprius/amprius-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://amprius.com)
+- [Blog](https://amprius.com/feed/)
+
+## API Evangelist rating
+
+**Kin Score 4.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/amprius/](https://apis.io/providers/amprius/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Amprius Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/amprius/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
